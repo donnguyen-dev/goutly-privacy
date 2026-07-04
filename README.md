@@ -40,7 +40,7 @@ children. It collects no personal data from anyone.
 
 ## Support & Contact
 
-For any questions about this policy or the app, contact: **donnguyen@snug.com**
+For any questions about this policy or the app, contact: **don@unswrc.com**
 
 ## Changes
 
